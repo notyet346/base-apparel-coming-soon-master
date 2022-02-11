@@ -16,14 +16,14 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Screenshot
 
-![Desktop preview solution](./desktop.jpg)
-![Active desktop preview](./active.jpg)
-![Mobile preview](./mobile.jpg)
+![Desktop preview solution](./desktop.png)
+![Active desktop preview](./active.png)
+![Mobile preview](./mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/notyet346/base-apparel-coming-soon-master)
+- Live Site URL: [Github](https://notyet346.github.io/base-apparel-coming-soon-master/)
 
 
 ## My process
