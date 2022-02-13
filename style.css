@@ -38,13 +38,13 @@ body {
 	position: relative;
 	display: grid;
 	grid-template-rows: 87.5px auto auto 50px;
-    grid-template-areas:  "header"
+    grid-template-areas:  "nav"
                           "hero-image"
                           "main"
                           "footer"
 }
-.header {
-	grid-area: header;
+.nav {
+	grid-area: nav;
 	padding: 2rem;
 }
 .logo {
@@ -170,17 +170,17 @@ input{
 	  	display: grid;
 	  	grid-template-columns: repeat(3, 1fr);
 	  	grid-template-rows: 200px auto 50px;
-	  	grid-template-areas:  	"header header  hero-image"
+	  	grid-template-areas:  	"nav 	nav hero-image"
 	                        	"main    main hero-image"
 	                        	"footer footer  footer"
 	}
 
 
-	.header, 
+	.nav, 
 	.main {
 		padding: 0 12rem 0 9rem;
 	}
-	.header {
+	.nav {
 		padding-top: 4rem;
 	}
 	.main{
